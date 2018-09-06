@@ -1,13 +1,23 @@
 # Accessibility Resources
 
-## Testing Tools
+## Laws & Guidelines
+
+- [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+- [Section 508](https://www.section508.gov/manage/laws-and-policies)
+- [ADA](https://www.ada.gov/pubs/ada.htm)
+
+## Testing
+
+### Automated
 
 - [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
 - [tota11y](http://khan.github.io/tota11y/)
-- [Readability Analyzer](https://datayze.com/readability-analyzer.php)
 - [a11y.css](https://ffoodd.github.io/a11y.css/)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+- [Axe](https://www.deque.com/axe/)
+- [WAVE](https://wave.webaim.org/)
 
-## Color/Contrast Tools
+### Color/Contrast
 
 - [Accessible Colors | WCAG 2.0 AA and AAA color contrast checker](http://accessible-colors.com/)
 - [Create a Color Palette Accessibility Evaluator – Accessibility](https://accessibility.oit.ncsu.edu/create-a-color-palette-accessibility-evaluator/)
@@ -22,12 +32,22 @@
 - [Hex Naw | A color accessibility tool for designers and developers.](https://hexnaw.com/)
 - [Contrast Mac App](https://usecontrast.com/)
 
+### Content
+
+- [Readability Analyzer](https://datayze.com/readability-analyzer.php)
+
 ## Documenting Accessibility
 
 - [A Toolkit for Digital Accessibility Requirements](http://bit.ly/accessibility-toolkit)
 - [Website Accessibility Conformance Evaluation Methodology (WCAG-EM)](https://www.w3.org/TR/WCAG-EM/)
 - [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/#/)
 
+## Checklists
+
+- [WebAIM WCAG 2 Checklist](https://webaim.org/standards/wcag/WCAG2Checklist.pdf)
+- [The A11y Project - Web Accessibility Checklist](https://a11yproject.com/checklist)
+- [3PlayMedia Video Accessibility Checklist](https://www.3playmedia.com/2018/02/12/video-accessibility-checklist/)
+- [Stamford - A guide to Accessible Video](http://accessibility.arl.org/wp-content/uploads/2015/02/stamford-a-guide-to-accessible-video.pdf)
 
 ## Articles
 
@@ -35,11 +55,9 @@
 - [My Accessibility Journey: What I’ve Learned So Far · An A List Apart Article](https://alistapart.com/article/my-accessibility-journey-what-ive-learned-so-far)
 - [How To Do an Accessibility Review | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/accessibility/how-to-review#start_with_the_keyboard)
 
-## Communities
+## Newsletters
 
-- http://web-a11y.herokuapp.com/ (Slack Team)
-- https://email.geeks.chat/ (good a11y channel)
-- http://designsystems.herokuapp.com/ (good a11y channel)
+- [A11yWeekly](https://a11yweekly.com/)
 
 ## Books
 
@@ -50,6 +68,12 @@
 
 - [WeCo](https://theweco.com/)
 - [Accessible360](https://accessible360.com/)
+
+## Communities
+
+- http://web-a11y.herokuapp.com/ (Slack Team)
+- https://email.geeks.chat/ (good a11y channel)
+- http://designsystems.herokuapp.com/ (good a11y channel)
 
 ## Meetups
 
@@ -71,7 +95,10 @@
 
 ## Other Resources
 
+- [The A11y Project](https://a11yproject.com/)
+- [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 - [Accessibility Wins, curated by Marcy Sutton](https://a11ywins.tumblr.com/)
 - [Useful accessibility resources](https://www.stefanjudis.com/useful-accessibility-resources/)
 - [WebAIM: Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
 - [Accessible Email](http://www.accessible-email.org/)
+- [App Cheatsheets](http://ncdae.org/resources/cheatsheets/)
