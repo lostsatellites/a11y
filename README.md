@@ -74,3 +74,4 @@
 - [Accessibility Wins, curated by Marcy Sutton](https://a11ywins.tumblr.com/)
 - [Useful accessibility resources](https://www.stefanjudis.com/useful-accessibility-resources/)
 - [WebAIM: Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
+- [Accessible Email](http://www.accessible-email.org/)
