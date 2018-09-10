@@ -41,6 +41,7 @@
 - [A Toolkit for Digital Accessibility Requirements](http://bit.ly/accessibility-toolkit)
 - [Website Accessibility Conformance Evaluation Methodology (WCAG-EM)](https://www.w3.org/TR/WCAG-EM/)
 - [WCAG-EM Report Tool](https://www.w3.org/WAI/eval/report-tool/#/)
+- [Bulb Inclusive Design Audit (example audit)](https://bulbenergy.github.io/bulb-audit/)
 
 ## Checklists
 
@@ -102,3 +103,5 @@
 - [WebAIM: Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
 - [Accessible Email](http://www.accessible-email.org/)
 - [App Cheatsheets](http://ncdae.org/resources/cheatsheets/)
+- [Deque Systems YouTube Channel](https://www.youtube.com/channel/UCvNQ5aJllZ5Oi49jtMKeb0Q)
+- [Syntax - Accessibility, Episode 072](https://syntax.fm/show/072/accessibility)
